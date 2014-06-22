@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Utilities =
+
+In order to get started editing the source code, download/sign up for the following utilities:
+
+[http://www.notepad-plus-plus.org/download/v6.6.6.html Notepad++]
+[http://sourceforge.net/projects/npp-plugins/files/NppDocShare/NppDocShare%20plugin%20v0.1/ NppDocShare plugin]
+[http://www.nullcity.com/Posts/Show/PixelArtWhiteboard Pixel Art Whiteboard]
+
+[http://mural.ly Online Whiteboarding application]
