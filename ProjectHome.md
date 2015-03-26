@@ -1,0 +1,1 @@
+Legend of the seven stars is a Zeta remake.
